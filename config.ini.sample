@@ -1,0 +1,8 @@
+[database]
+db_username = xxxxxxxx
+db_password = xxxxxxx
+db_host = localhost
+db_name = xxxxxxxxx
+student_start_index = 5000
+teacher_start_index = 100
+admin_start_index = 0
